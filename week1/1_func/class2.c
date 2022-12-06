@@ -17,6 +17,7 @@ int Compare(int a, int b) {
 	return diff; // diff = difference
 }
 
+
 int main() {
 	int a, b;
 	int c;
@@ -38,6 +39,5 @@ int main() {
 	c = a / b;
 	printResult(a, b, c);
 	*/
-
 	return 0;
 }

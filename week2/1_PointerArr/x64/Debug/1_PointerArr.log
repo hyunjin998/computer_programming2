@@ -1,3 +1,2 @@
-﻿  practice_300.c
-C:\Users\pc\source\repos\computer_programming2\week2\1_PointerArr\practice_300.c(57,1): warning C4047: '초기화 중': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+﻿  class4.c
   1_PointerArr.vcxproj -> C:\Users\pc\source\repos\computer_programming2\week2\1_PointerArr\x64\Debug\1_PointerArr.exe

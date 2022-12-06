@@ -1,8 +1,8 @@
 #include <stdio.h>
-
 int Add(int val);
-int num = 1;
 
+
+int num = 1;
 int main() {
 	int num = 5;
 	printf("num: %d\n", Add(3)); // num = 12

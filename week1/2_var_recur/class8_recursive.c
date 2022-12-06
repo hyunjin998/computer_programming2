@@ -1,6 +1,6 @@
 #include <stdio.h>
-
 int factorial(int n);
+
 
 int main() {
 	int fact, n;
@@ -8,6 +8,7 @@ int main() {
 	scanf_s("%d", &n);
 	fact = factorial(n);
 	printf("Factorial of %d is %d", n, fact);
+	return 0;
 }
 
 int factorial(int n) {

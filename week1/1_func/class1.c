@@ -1,6 +1,6 @@
 #include <stdio.h>
-
 int Calculator(int a, int b);
+
 
 int main() {
 	int a = 1, b = 2;

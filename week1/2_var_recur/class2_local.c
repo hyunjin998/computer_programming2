@@ -18,6 +18,5 @@ int main() {
 
 	num = 10;
 	printf("numÀº %d\n", num); // num = 10
-
 	return 0;
 }

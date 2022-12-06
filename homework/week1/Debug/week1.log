@@ -1,5 +1,4 @@
 ﻿  week1.c
 C:\Users\pc\source\repos\computer_programming2\homework\week1\week1.c(98,10): warning C4133: '=': 'int *'과(와) 'double *' 사이의 형식이 호환되지 않습니다.
 C:\Users\pc\source\repos\computer_programming2\homework\week1\week1.c(156,22): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\pc\source\repos\computer_programming2\homework\week1\week1.c(223,1): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
   week1.vcxproj -> C:\Users\pc\source\repos\computer_programming2\homework\week1\Debug\week1.exe

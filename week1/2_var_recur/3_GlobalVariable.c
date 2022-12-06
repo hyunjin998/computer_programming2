@@ -1,8 +1,8 @@
 #include <stdio.h>
-
 void Add(int val);
-int num; // 전역변수는 기본 0으로 초기화된다
 
+
+int num; // 전역변수는 기본 0으로 초기화된다
 int main() {
 	printf("num: %d\n", num); // num = 0
 	Add(3);

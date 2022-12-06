@@ -19,6 +19,7 @@ void HowToUseThisProg() { // 인자전달 X, 반환값 X
 	printf("자! 그럼 두 개의 정수를 입력하세요.\n");
 }
 
+
 int main() {
 	int result, num1, num2;
 	HowToUseThisProg();

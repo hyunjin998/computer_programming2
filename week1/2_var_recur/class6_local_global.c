@@ -1,8 +1,8 @@
 #include <stdio.h>
-
 void Calculator(int a, int b);
-int c; // 전역변수, c = 0
 
+
+int c; // 전역변수, c = 0
 int main() {
 	int a = 1, b = 2; // 지역변수
 	Calculator(a, b);

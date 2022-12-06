@@ -34,7 +34,7 @@ int main() {
 
 		case 2: { // p.260
 			char arr[] = { "Good time" };
-			printf("%s\n", arr);
+			printf("%s\n", arr); // Good time
 			break;
 		}
 		}

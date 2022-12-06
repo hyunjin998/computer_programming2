@@ -1,8 +1,8 @@
 #include <stdio.h>
-
 int Calculator(int a, int b);
-int c; // c = 0
 
+
+int c; // c = 0
 int main() {
 	int a = 1, b = 2;
 	c = Calculator(a, b); // c = 3

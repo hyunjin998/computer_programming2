@@ -13,4 +13,5 @@ int main() {
 		num++;
 		printf("if문 내에 존재하는 지역변수 num은 %d\n", num); // num = 8
 	}
+	return 0;
 }

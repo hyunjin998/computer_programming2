@@ -218,8 +218,5 @@ void pAddAvg(float a, float b) { // 9
 	pa = &a;
 	pb = &b;
 
-	double add; // overflow
-	add  = *pa + *pb;
-	float avg = add / 2;
-	printf("sum: %0.2lf, avg: %0.2f\n", add, avg); // (3) 결과인 합과 평균 출력
+	printf("sum: %0.2lf, avg: %0.2f\n", Add(*pa, *pb), Avg(*pa, *pb)); // (3) 결과인 합과 평균 출력
 }

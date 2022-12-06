@@ -1,7 +1,7 @@
 #include <stdio.h>
-
 int AbsoCompare(int num1, int num2); // 절댓값이 큰 정수 변환
 int GetAbsoValue(int num); // 전달인자의 절댓값을 변환
+
 
 int main() {
 	int num1, num2;

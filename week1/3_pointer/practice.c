@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 void Question();
 
 int main() {
@@ -17,7 +16,6 @@ int main() {
 			(*ptr1)++; // 10 + 1
 			(*ptr2)++; // 11 + 1
 			printf("%d\n", num); // 12
-
 			break;
 		}
 
@@ -33,7 +31,6 @@ int main() {
 			ptr2 = &num1; // 포인터 변수 ptr2이 num1을 가리키도록 변경
 
 			printf("ptr1: %d, ptr2: %d\n", *ptr1, *ptr2); // ptr1 = num2 = 10, ptr2 = num1 = 20
-			
 			break;
 		}
 		}

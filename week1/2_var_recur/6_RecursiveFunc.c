@@ -7,6 +7,7 @@ void Recursive(int num) {
 	Recursive(num - 1);
 }
 
+
 int main() {
 	Recursive(3);
 	return 0;

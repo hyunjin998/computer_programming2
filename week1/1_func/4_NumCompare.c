@@ -1,6 +1,7 @@
 #include <stdio.h>
 int NumberCompare(int num1, int num2);
 
+
 int main() {
 	printf("3과 4중에서 큰 수는 %d이다.\n", NumberCompare(3, 4)); // 4
 	printf("7과 2중에서 큰 수는 %d이다.\n", NumberCompare(7, 2)); // 7

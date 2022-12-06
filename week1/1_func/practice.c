@@ -1,11 +1,11 @@
 #include <stdio.h>
-
 void Question();
 int maxNum(int a, int b, int c); // 가장 큰 수를 반환
 int minNum(int a, int b, int c); // 가장 작은 수를 반환
 float CelToFah(float cel); // 섭씨온도 -> 화씨온도로
 float FahToCel(float fah); // 화씨온도 -> 섭씨온도로
 void Fibonacci(int a); // 피보나치 수열
+
 
 int main() {
 	while (1) {
@@ -20,7 +20,6 @@ int main() {
 			scanf_s("%d %d %d", &num1, &num2, &num3);
 			printf("Max: %d\n", maxNum(num1, num2, num3));
 			printf("Min: %d\n", minNum(num1, num2, num3));
-
 			break;
 		}
 
@@ -57,7 +56,6 @@ int main() {
 	}
 	return 0;
 }
-
 
 void Question() {
 	printf("===============================\n");
