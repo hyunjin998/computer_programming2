@@ -7,7 +7,7 @@ int AddToTotal(int num) {
 }
 
 
-int main() {
+int main() { // p.237
 	int num, i; // num, i = 쓰레기값
 	for (i = 0; i < 3; i++) {
 		printf("입력: %d", i + 1);

@@ -18,9 +18,6 @@
     <ClCompile Include="1_PointerOperation.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="practice.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="class1_pointer.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -28,6 +25,9 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="class3_operator.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_284.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

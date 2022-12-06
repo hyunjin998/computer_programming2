@@ -150,7 +150,7 @@
     <ClCompile Include="4_NumCompare.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="practice.c" />
+    <ClCompile Include="practice_221.c" />
     <ClCompile Include="1_PrintfOutput.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
