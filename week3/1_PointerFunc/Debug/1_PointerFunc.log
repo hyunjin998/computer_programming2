@@ -1,0 +1,5 @@
+﻿  class1.c
+C:\Users\pc\source\repos\computer_programming2\week3\1_PointerFunc\class1.c(11,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\pc\source\repos\computer_programming2\week3\1_PointerFunc\class1.c(39,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\pc\source\repos\computer_programming2\week3\1_PointerFunc\class1.c(63,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+  1_PointerFunc.vcxproj -> C:\Users\pc\source\repos\computer_programming2\week3\1_PointerFunc\Debug\1_PointerFunc.exe

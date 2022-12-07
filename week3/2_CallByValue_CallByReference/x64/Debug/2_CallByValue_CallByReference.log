@@ -1,0 +1,3 @@
+﻿  practice_324.c
+C:\Users\pc\source\repos\computer_programming2\week3\2_CallByValue_CallByReference\practice_324.c(46,1): warning C4090: '초기화 중': 'const' 한정자가 서로 다릅니다.
+  2_CallByValue_CallByReference.vcxproj -> C:\Users\pc\source\repos\computer_programming2\week3\2_CallByValue_CallByReference\x64\Debug\2_CallByValue_CallByReference.exe
