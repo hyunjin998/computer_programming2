@@ -17,7 +17,7 @@
 */
 
 #include <stdio.h>
-void DesSort(int *a, int len);
+void DesSort(int a[], int len);
 
 
 int main() {
@@ -34,7 +34,7 @@ int main() {
 }
 
 
-void DesSort(int *a, int len) {
+void DesSort(int a[], int len) {
 	int tmp;
 	for (int i = 0; i < len - 1; i++) {
 		for (int j = 0; j < len - 1 - i; j++) {

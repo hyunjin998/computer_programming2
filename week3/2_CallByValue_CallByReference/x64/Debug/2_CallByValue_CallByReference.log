@@ -1,3 +1,18 @@
-﻿  practice_324.c
-C:\Users\pc\source\repos\computer_programming2\week3\2_CallByValue_CallByReference\practice_324.c(46,1): warning C4090: '초기화 중': 'const' 한정자가 서로 다릅니다.
+﻿  class1.c
+C:\Users\pc\source\repos\computer_programming2\week3\2_CallByValue_CallByReference\class1.c(20,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\pc\source\repos\computer_programming2\week3\2_CallByValue_CallByReference\class1.c(20,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) 인수 1('int *' 형식)과(와) 충돌합니다.
+C:\Users\pc\source\repos\computer_programming2\week3\2_CallByValue_CallByReference\class1.c(20,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+C:\Users\pc\source\repos\computer_programming2\week3\2_CallByValue_CallByReference\class1.c(20,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) 인수 2('int *' 형식)과(와) 충돌합니다.
+C:\Users\pc\source\repos\computer_programming2\week3\2_CallByValue_CallByReference\class1.c(24,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\pc\source\repos\computer_programming2\week3\2_CallByValue_CallByReference\class1.c(24,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) 인수 1('int *' 형식)과(와) 충돌합니다.
+C:\Users\pc\source\repos\computer_programming2\week3\2_CallByValue_CallByReference\class1.c(24,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+C:\Users\pc\source\repos\computer_programming2\week3\2_CallByValue_CallByReference\class1.c(24,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) 인수 2('int *' 형식)과(와) 충돌합니다.
+C:\Users\pc\source\repos\computer_programming2\week3\2_CallByValue_CallByReference\class1.c(85,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'const int *'입니다.
+C:\Users\pc\source\repos\computer_programming2\week3\2_CallByValue_CallByReference\class1.c(85,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) 인수 1('const int *' 형식)과(와) 충돌합니다.
+C:\Users\pc\source\repos\computer_programming2\week3\2_CallByValue_CallByReference\class1.c(89,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'const int *'입니다.
+C:\Users\pc\source\repos\computer_programming2\week3\2_CallByValue_CallByReference\class1.c(89,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) 인수 1('const int *' 형식)과(와) 충돌합니다.
+C:\Users\pc\source\repos\computer_programming2\week3\2_CallByValue_CallByReference\class1.c(96,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *const '입니다.
+C:\Users\pc\source\repos\computer_programming2\week3\2_CallByValue_CallByReference\class1.c(96,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) 인수 1('int *const ' 형식)과(와) 충돌합니다.
+C:\Users\pc\source\repos\computer_programming2\week3\2_CallByValue_CallByReference\class1.c(100,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *const '입니다.
+C:\Users\pc\source\repos\computer_programming2\week3\2_CallByValue_CallByReference\class1.c(100,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) 인수 1('int *const ' 형식)과(와) 충돌합니다.
   2_CallByValue_CallByReference.vcxproj -> C:\Users\pc\source\repos\computer_programming2\week3\2_CallByValue_CallByReference\x64\Debug\2_CallByValue_CallByReference.exe

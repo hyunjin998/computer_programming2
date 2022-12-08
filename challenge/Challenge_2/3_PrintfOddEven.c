@@ -21,7 +21,7 @@
 
 
 #include <stdio.h>
-void PrintfOddEven(int *a, int len);
+void PrintfOddEven(int a[], int len);
 
 
 int main() {
@@ -39,7 +39,7 @@ int main() {
 }
 
 
-void PrintfOddEven(int *a, int len) {
+void PrintfOddEven(int a[], int len) {
 	int param[10];
 	int cnt = 0;
 	int cnt2 = 1;

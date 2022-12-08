@@ -17,8 +17,8 @@
 */
 
 #include <stdio.h>
-void Odd(int *a, int len);
-void Even(int *b, int len);
+void Odd(int a[], int len);
+void Even(int b[], int len);
 
 
 int main() {
@@ -40,7 +40,7 @@ int main() {
 
 
 // 홀수만 출력하는 함수
-void Odd(int *a, int len) {
+void Odd(int a[], int len) {
 	printf("홀수 출력: ");
 	for (int i = 0; i < len; i++) {
 		if (a[i] % 2 != 0) {
@@ -51,7 +51,7 @@ void Odd(int *a, int len) {
 }
 
 // 짝수만 출력하는 함수
-void Even(int *b, int len) {
+void Even(int b[], int len) {
 	printf("짝수 출력: ");
 	for (int i = 0; i < len; i++) {
 		if (b[i] % 2 == 0) {
