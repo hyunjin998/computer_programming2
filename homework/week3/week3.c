@@ -3,7 +3,7 @@ void Question();
 void Swap(int x, int y); // 1 (1)
 void Swap2(int* px, int* py); // 1 (2)
 void SumAvg(float *a, float *b); // 2
-void dkd(int a[], int len); // 4
+void Square(int a[], int len); // 4
 
 
 int main() {
@@ -47,7 +47,7 @@ int main() {
 				arr[i] = i + 1; // 1부터 100까지의 정수가 담겨있는 배열
 			}
 			
-			dkd(arr, arrLen); // 배열을 매개변수로 넘겨줌
+			Square(arr, arrLen); // 배열을 매개변수로 넘겨줌
 			break;
 		}
 		}
@@ -91,10 +91,13 @@ void SumAvg(float *a, float *b) {
 }
 
 
-void dkd(int a[], int len) { // 4
+void Square(int a[], int len) { // 4
+	int sum = 2;
 	for (int i = 0; i < len; i++) {
-		if (a[i] % 2 == 0)
+		if (a[i] == sum) {
 			printf("%d ", a[i]);
+			sum *= 2;
+		}
 	}
 	printf("\n");
 }
