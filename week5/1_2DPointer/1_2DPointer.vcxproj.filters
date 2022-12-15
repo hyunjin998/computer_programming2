@@ -14,4 +14,39 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1_2DArrayAddress.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2_2DArrPointerOp.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="3_2DArrNameAndArrPtr.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="4_ArrPtrAndPtrArr.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="5_2DArrParam.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="6_2DArrAccessType.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_387.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="class1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="class2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="class3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="class4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
